@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/misha-react/static/css/main.4a5d131f.chunk.css",
+    "main.js": "/misha-react/static/js/main.829c1389.chunk.js",
+    "main.js.map": "/misha-react/static/js/main.829c1389.chunk.js.map",
+    "runtime-main.js": "/misha-react/static/js/runtime-main.831d8b95.js",
+    "runtime-main.js.map": "/misha-react/static/js/runtime-main.831d8b95.js.map",
+    "static/css/2.f3081fb4.chunk.css": "/misha-react/static/css/2.f3081fb4.chunk.css",
+    "static/js/2.5f1105ca.chunk.js": "/misha-react/static/js/2.5f1105ca.chunk.js",
+    "static/js/2.5f1105ca.chunk.js.map": "/misha-react/static/js/2.5f1105ca.chunk.js.map",
+    "static/js/3.1444659c.chunk.js": "/misha-react/static/js/3.1444659c.chunk.js",
+    "static/js/3.1444659c.chunk.js.map": "/misha-react/static/js/3.1444659c.chunk.js.map",
+    "index.html": "/misha-react/index.html",
+    "static/css/2.f3081fb4.chunk.css.map": "/misha-react/static/css/2.f3081fb4.chunk.css.map",
+    "static/css/main.4a5d131f.chunk.css.map": "/misha-react/static/css/main.4a5d131f.chunk.css.map",
+    "static/js/2.5f1105ca.chunk.js.LICENSE.txt": "/misha-react/static/js/2.5f1105ca.chunk.js.LICENSE.txt",
+    "static/media/Me.77b8730b.jpg": "/misha-react/static/media/Me.77b8730b.jpg",
+    "static/media/Millionaire.57819bfa.png": "/misha-react/static/media/Millionaire.57819bfa.png",
+    "static/media/StarWars.dc12b5ca.png": "/misha-react/static/media/StarWars.dc12b5ca.png",
+    "static/media/calculator.7622ae24.jpg": "/misha-react/static/media/calculator.7622ae24.jpg",
+    "static/media/carSharing.7e2dd280.jpg": "/misha-react/static/media/carSharing.7e2dd280.jpg",
+    "static/media/gallery.fd557173.jpg": "/misha-react/static/media/gallery.fd557173.jpg",
+    "static/media/misha-react_cv_ua_small.5928725a.pdf": "/misha-react/static/media/misha-react_cv_ua_small.5928725a.pdf",
+    "static/media/pizza.93b97970.png": "/misha-react/static/media/pizza.93b97970.png",
+    "static/media/postViewer.50844f14.jpg": "/misha-react/static/media/postViewer.50844f14.jpg",
+    "static/media/shopping.67180798.png": "/misha-react/static/media/shopping.67180798.png",
+    "static/media/home.module.css": "/misha-react/static/media/star_sky.710f659c.jpg",
+    "static/media/weather.c196ac8f.png": "/misha-react/static/media/weather.c196ac8f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.831d8b95.js",
+    "static/css/2.f3081fb4.chunk.css",
+    "static/js/2.5f1105ca.chunk.js",
+    "static/css/main.4a5d131f.chunk.css",
+    "static/js/main.829c1389.chunk.js"
+  ]
+}
