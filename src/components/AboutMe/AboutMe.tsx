@@ -57,6 +57,7 @@ const AboutMe = () => {
                             OK
                         </Button>
                     ]}
+                    onCancel={handleOk}
                     className={style.modal}
 
                 >
