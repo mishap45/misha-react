@@ -1,0 +1,19 @@
+.icon {
+    color: #eeeeee !important;
+    font-size: 40px;
+    padding: 10px;
+    transition: 1s;
+}
+
+.icon:hover {
+    color: #6200ea !important;
+    cursor: pointer;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 50px;
+    transition: 1s;
+}
+
+.iconBlock {
+    text-align: center;
+}

@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800&display=swap');
+
+.skills {
+    font-family: 'Inter', sans-serif;
+    display: flex;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    border-top: 1px solid #b2dfdb;
+}
+
+.second {
+    width: 70%;
+}
+
+.first {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30%;
+}

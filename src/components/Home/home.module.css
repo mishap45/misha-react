@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800&display=swap');
+
+.home {
+    background-image: url("../../assets/img/star_sky.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.name {
+    font-family: 'Inter', sans-serif;
+    font-weight: 800;
+    text-align: center;
+    font-size: 42px;
+    color: #eeeeee;
+    margin-bottom: 20px;
+}
+
+.video {
+    width: 100%;
+    margin-bottom: -1.5%;
+    padding: 0;
+}

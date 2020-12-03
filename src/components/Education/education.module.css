@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800&display=swap');
+
+
+.education {
+    font-family: 'Inter', sans-serif;
+    display: flex;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    flex-wrap: wrap;
+}
+
+.second {
+    width: 70%;
+}
+
+.first {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30%;
+}
+
+.head {
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.desc {
+    font-size: 16px;
+    padding-right: 10px;
+}
