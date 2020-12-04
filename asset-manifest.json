@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/misha-react/static/css/main.14979028.chunk.css",
-    "main.js": "/misha-react/static/js/main.f22ac7e1.chunk.js",
-    "main.js.map": "/misha-react/static/js/main.f22ac7e1.chunk.js.map",
+    "main.js": "/misha-react/static/js/main.5630c7e7.chunk.js",
+    "main.js.map": "/misha-react/static/js/main.5630c7e7.chunk.js.map",
     "runtime-main.js": "/misha-react/static/js/runtime-main.80c4dd67.js",
     "runtime-main.js.map": "/misha-react/static/js/runtime-main.80c4dd67.js.map",
     "static/css/2.f3081fb4.chunk.css": "/misha-react/static/css/2.f3081fb4.chunk.css",
@@ -19,7 +19,7 @@
     "static/media/StarWars.dc12b5ca.png": "/misha-react/static/media/StarWars.dc12b5ca.png",
     "static/media/calculator.7622ae24.jpg": "/misha-react/static/media/calculator.7622ae24.jpg",
     "static/media/carSharing.7e2dd280.jpg": "/misha-react/static/media/carSharing.7e2dd280.jpg",
-    "static/media/gallery.fd557173.jpg": "/misha-react/static/media/gallery.fd557173.jpg",
+    "static/media/gallery.58b4662e.jpg": "/misha-react/static/media/gallery.58b4662e.jpg",
     "static/media/misha-react_cv_ua.50d4369d.pdf": "/misha-react/static/media/misha-react_cv_ua.50d4369d.pdf",
     "static/media/pizza.93b97970.png": "/misha-react/static/media/pizza.93b97970.png",
     "static/media/postViewer.50844f14.jpg": "/misha-react/static/media/postViewer.50844f14.jpg",
@@ -32,6 +32,6 @@
     "static/css/2.f3081fb4.chunk.css",
     "static/js/2.25f24565.chunk.js",
     "static/css/main.14979028.chunk.css",
-    "static/js/main.f22ac7e1.chunk.js"
+    "static/js/main.5630c7e7.chunk.js"
   ]
 }
