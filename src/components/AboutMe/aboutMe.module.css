@@ -36,6 +36,9 @@
 .resumeBtn {
     border-color: #eee !important;
     color: #eee !important;
+    display: flex;
+    align-items: center;
+    width: 80%;
 }
 
 .resumeBtn:hover {

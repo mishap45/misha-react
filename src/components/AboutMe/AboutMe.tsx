@@ -1,25 +1,13 @@
-import React, { useState } from 'react'
+import React from 'react'
 import Me from '../../assets/img/Me.jpg'
-import { Button, Modal } from 'antd'
+import { Button } from 'antd'
 import 'antd/dist/antd.css'
 import { FilePdfOutlined } from '@ant-design/icons'
 import style from './aboutMe.module.css'
-import PDFViewer from 'pdf-viewer-reactjs'
 // @ts-ignore
 import PDF from '../../assets/files/misha-react_cv_ua.pdf'
 
 const AboutMe = () => {
-
-    const [isModalVisible, setIsModalVisible] = useState(false);
-
-    const showModal = () => {
-        setIsModalVisible(true);
-    };
-
-    const handleOk = () => {
-        setIsModalVisible(false);
-    };
-
     return (
         <div className={style.aboutMe}>
             <div>
@@ -43,30 +31,11 @@ const AboutMe = () => {
                         <p className={style.aboutMeDesc}>misha.frontend@gmail.com</p>
 
                         <Button type="primary" shape="round" ghost icon={<FilePdfOutlined />}
-                                size={"large"} className={style.resumeBtn} onClick={showModal}>
-                            Переглянути резюме
+                                size={"large"} className={style.resumeBtn} href={PDF} download>
+                            Скачати резюме
                         </Button>
                     </div>
                 </div>
-
-                <Modal
-                    title="Резюме"
-                    visible={isModalVisible}
-                    footer={[
-                        <Button key="submit" type="primary" onClick={handleOk}>
-                            OK
-                        </Button>
-                    ]}
-                    onCancel={handleOk}
-                    className={style.modal}
-
-                >
-                    <PDFViewer hideZoom hideNavbar hideRotation
-                               document={{
-                                   url: PDF,
-                               }}
-                    />
-                </Modal>
             </div>
         </div>
     )
