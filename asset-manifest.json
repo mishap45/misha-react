@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/misha-react/static/css/main.4a5d131f.chunk.css",
-    "main.js": "/misha-react/static/js/main.7f5cdb61.chunk.js",
-    "main.js.map": "/misha-react/static/js/main.7f5cdb61.chunk.js.map",
-    "runtime-main.js": "/misha-react/static/js/runtime-main.831d8b95.js",
-    "runtime-main.js.map": "/misha-react/static/js/runtime-main.831d8b95.js.map",
+    "main.css": "/misha-react/static/css/main.14979028.chunk.css",
+    "main.js": "/misha-react/static/js/main.f22ac7e1.chunk.js",
+    "main.js.map": "/misha-react/static/js/main.f22ac7e1.chunk.js.map",
+    "runtime-main.js": "/misha-react/static/js/runtime-main.80c4dd67.js",
+    "runtime-main.js.map": "/misha-react/static/js/runtime-main.80c4dd67.js.map",
     "static/css/2.f3081fb4.chunk.css": "/misha-react/static/css/2.f3081fb4.chunk.css",
-    "static/js/2.5f1105ca.chunk.js": "/misha-react/static/js/2.5f1105ca.chunk.js",
-    "static/js/2.5f1105ca.chunk.js.map": "/misha-react/static/js/2.5f1105ca.chunk.js.map",
-    "static/js/3.1444659c.chunk.js": "/misha-react/static/js/3.1444659c.chunk.js",
-    "static/js/3.1444659c.chunk.js.map": "/misha-react/static/js/3.1444659c.chunk.js.map",
+    "static/js/2.25f24565.chunk.js": "/misha-react/static/js/2.25f24565.chunk.js",
+    "static/js/2.25f24565.chunk.js.map": "/misha-react/static/js/2.25f24565.chunk.js.map",
+    "static/js/3.7eb41044.chunk.js": "/misha-react/static/js/3.7eb41044.chunk.js",
+    "static/js/3.7eb41044.chunk.js.map": "/misha-react/static/js/3.7eb41044.chunk.js.map",
     "index.html": "/misha-react/index.html",
     "static/css/2.f3081fb4.chunk.css.map": "/misha-react/static/css/2.f3081fb4.chunk.css.map",
-    "static/css/main.4a5d131f.chunk.css.map": "/misha-react/static/css/main.4a5d131f.chunk.css.map",
-    "static/js/2.5f1105ca.chunk.js.LICENSE.txt": "/misha-react/static/js/2.5f1105ca.chunk.js.LICENSE.txt",
+    "static/css/main.14979028.chunk.css.map": "/misha-react/static/css/main.14979028.chunk.css.map",
+    "static/js/2.25f24565.chunk.js.LICENSE.txt": "/misha-react/static/js/2.25f24565.chunk.js.LICENSE.txt",
     "static/media/Me.77b8730b.jpg": "/misha-react/static/media/Me.77b8730b.jpg",
     "static/media/Millionaire.57819bfa.png": "/misha-react/static/media/Millionaire.57819bfa.png",
     "static/media/StarWars.dc12b5ca.png": "/misha-react/static/media/StarWars.dc12b5ca.png",
@@ -28,10 +28,10 @@
     "static/media/weather.c196ac8f.png": "/misha-react/static/media/weather.c196ac8f.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.831d8b95.js",
+    "static/js/runtime-main.80c4dd67.js",
     "static/css/2.f3081fb4.chunk.css",
-    "static/js/2.5f1105ca.chunk.js",
-    "static/css/main.4a5d131f.chunk.css",
-    "static/js/main.7f5cdb61.chunk.js"
+    "static/js/2.25f24565.chunk.js",
+    "static/css/main.14979028.chunk.css",
+    "static/js/main.f22ac7e1.chunk.js"
   ]
 }
