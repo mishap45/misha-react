@@ -6,7 +6,7 @@ import { FilePdfOutlined } from '@ant-design/icons'
 import style from './aboutMe.module.css'
 import PDFViewer from 'pdf-viewer-reactjs'
 // @ts-ignore
-import PDF from '../../assets/files/misha-react_cv_ua_small.pdf'
+import PDF from '../../assets/files/misha-react_cv_ua.pdf'
 
 const AboutMe = () => {
 
